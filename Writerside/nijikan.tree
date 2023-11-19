@@ -2,8 +2,9 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="n" name="Nijikan"
-                  start-page="">
+<instance-profile id="nijikan" name="Nijikan"
+                  start-page="index.md">
 
     <toc-element topic="index.md"/>
+    <toc-element topic="lipSync.md"/>
 </instance-profile>
