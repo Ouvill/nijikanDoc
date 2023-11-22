@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="4ce88eff">
-        <description>Created after removal of "How to" from Help Instance</description>
-        <accepts>How-to.html</accepts>
-    </rule>
 </rules>
