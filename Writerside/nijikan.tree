@@ -6,6 +6,7 @@
                   start-page="index.md">
 
     <toc-element topic="index.md"/>
+    <toc-element topic="changePic.md"/>
     <toc-element topic="subtitleMogrt.md"/>
     <toc-element topic="lipSync.md"/>
     <toc-element topic="Uninstall.md"/>
