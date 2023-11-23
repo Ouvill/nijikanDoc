@@ -15,7 +15,7 @@ VOICEVOXなどの合成音声ソフトで生成した音声をPremiere Proに取
 
 ## インストール方法
 
-1. GitHubの[リリースページ]()から最新版の`nijikan.zxp`ファイルをダウンロードします。
+1. GitHubの[リリースページ](https://github.com/Ouvill/nijikanDoc/releases/latest)から最新版の`nijikan.zxp`ファイルをダウンロードします。
 2. Adobeの[コマンドラインからの作業](https://helpx.adobe.com/jp/creative-cloud/help/working-from-the-command-line.html)
    のドキュメントに従ってインストールを行います。 以下にも手順を記載します
     1. コマンドラインを開きます。
@@ -48,7 +48,9 @@ VOICEVOXなどの合成音声ソフトで生成した音声をPremiere Proに取
     - この番号は、キャラクターごとに設定できます。
 10. **字幕MOGRT**を指定します。MOGRTはモーショングラフィックテンプレートの略です。
     - 読み込めるのはAfter Effectで作成したモーショングラフィックテンプレートです。
-    - モーショングラフィックテンプレートのサンプルは[こちら](subtitleMogrt.md)からダウンロードできます。
+    - [サンプルのモーショングラフィックテンプレート](https://github.com/Ouvill/nijikanDoc/releases/tag/untagged-ba3d13fc227a9a6bab36)を配布しています。
+    - [作者のPixivファンボックス](https://qlvyggph.fanbox.cc/)でも配布しています。
+    - 独自に作成もできます。[モーショングラフィックテンプレートの作成方法](subtitleMogrt.md)も参照してください。
 11. 字幕トラック番号を好みの番号に変更します。
     - この番号は、キャラクターごとに設定できます。
 12. 最低限の設定は以上です。パネルの一番上に戻り、**ボイス監視**を有効にしてください。
@@ -59,4 +61,4 @@ VOICEVOXなどの合成音声ソフトで生成した音声をPremiere Proに取
 ## 既知の問題
 
 - 字幕のモーショングラフィックテンプレートに時間のレスポンシブデザインが設定されていると適切に動作しない。
-- モーショングラフィックテンプレートのフレームレートとPremiere Proのシーケンスフレームレートが異なっていると音声が
+- モーショングラフィックテンプレートのフレームレートとPremiere Proのシーケンスフレームレートが異なっていると長さがズレる。
