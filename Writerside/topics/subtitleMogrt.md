@@ -14,7 +14,7 @@
 
 [作者のPixivファンボックスのページ](https://qlvyggph.fanbox.cc/)
 
-![プレビュー.png](袋文字字幕プレビュー.png)
+![プレビュー.png](subtitle_preview.png)
 
 ## After Effectを利用して自分で作成する
 
