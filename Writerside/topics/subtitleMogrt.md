@@ -6,7 +6,7 @@
 
 ## 配布されているモーショングラフィックテンプレートを利用する
 
-[サンプルのモーショングラフィックテンプレート](https://github.com/Ouvill/nijikanDoc/releases/tag/untagged-ba3d13fc227a9a6bab36)を配布しています。
+[サンプルのモーショングラフィックテンプレート](https://github.com/Ouvill/nijikanDoc/releases/download/v0.0.1/MOGRT.zip)を配布しています。
 
 またPixivファンボックスで作者が作成したモーショングラフィックテンプレートを配布しています。
 

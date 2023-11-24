@@ -44,7 +44,7 @@ VOICEVOXなどの合成音声ソフトで生成した音声をPremiere Proに取
     - この番号は、キャラクターごとに設定できます。
 10. **字幕MOGRT**を指定します。MOGRTはモーショングラフィックテンプレートの略です。
     - 読み込めるのはAfter Effectで作成したモーショングラフィックテンプレートです。
-    - [サンプルのモーショングラフィックテンプレート](https://github.com/Ouvill/nijikanDoc/releases/tag/untagged-ba3d13fc227a9a6bab36)を配布しています。
+    - [サンプルのモーショングラフィックテンプレート](https://github.com/Ouvill/nijikanDoc/releases/download/v0.0.1/MOGRT.zip)を配布しています。
     - [作者のPixivファンボックス](https://qlvyggph.fanbox.cc/)でも配布しています。
     - 独自に作成もできます。[モーショングラフィックテンプレートの作成方法](subtitleMogrt.md)も参照してください。
 11. 字幕トラック番号を好みの番号に変更します。
