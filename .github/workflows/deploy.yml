@@ -17,6 +17,10 @@ env:
   # Writerside docker image version
   DOCKER_VERSION: 232.10165.1
 
+permissions:
+  id-token: write
+  pages: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
