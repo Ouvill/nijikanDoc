@@ -9,10 +9,6 @@ VOICEVOXなどの合成音声ソフトで生成した音声をPremiere Proに取
 - 音声ファイルの長さに合わせて画像を配置します。
 - labファイルに合わせて口パクさせます。※After Effectsで設定が必要
 
-## お願い
-
-ニコニコ動画に動画を投稿する場合、動画の親作品に[]()の登録をお願いします。
-
 ## インストール方法
 
 1. GitHubの[リリースページ](https://github.com/Ouvill/nijikanDoc/releases/latest)から最新版の`nijikan.zxp`ファイルをダウンロードします。
