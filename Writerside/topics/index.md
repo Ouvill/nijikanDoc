@@ -11,6 +11,10 @@ VOICEVOXなどの合成音声ソフトで生成した音声をPremiere Proに取
 
 字幕はAfter Effectsの体験版でも利用できます。体験版のライセンスが切れていてもインストールさえされていれば動作します。
 
+## お願い
+
+ニコニコ動画に動画を投稿する場合、動画の親作品に[sm43070420](https://www.nicovideo.jp/watch/sm43070420)の登録をお願いします。
+
 ## インストール方法
 
 1. GitHubの[リリースページ](https://github.com/Ouvill/nijikanDoc/releases/latest)から最新版の`nijikan.zxp`ファイルをダウンロードします。
