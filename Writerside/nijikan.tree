@@ -5,6 +5,7 @@
 <instance-profile id="nijikan" name="Nijikan"
                   start-page="index.md">
 
+    <toc-element topic="release-note.md"/>
     <toc-element topic="index.md"/>
     <toc-element topic="changePic.md"/>
     <toc-element topic="subtitleMogrt.md"/>
